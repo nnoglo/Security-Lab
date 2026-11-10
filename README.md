@@ -1,4 +1,4 @@
-# Security Homelab
+# Security Lab
 
 A virtualized home lab for learning defensive security. I build and monitor
 systems with a Wazuh SIEM, document what breaks, and write up how I fixed it.
